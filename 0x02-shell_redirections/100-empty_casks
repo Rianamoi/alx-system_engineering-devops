@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f,d -empty | cut -d: -f8 
+find . -empty | cut -d: -f8 
